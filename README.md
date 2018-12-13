@@ -7,4 +7,6 @@
 * Django2.X
 * sqllite3
 
+用户：admin user root/root1234
+
 参考：https://code.ziqiangxuetang.com/django/django-schema-migration.html
